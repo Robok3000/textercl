@@ -3,8 +3,8 @@ title:       Texter
 email:       hello@saikiransripada.com
 author:      Petric Bozanobic & Pedro Torrealba
 description: "Repositorio de cronicas urbanas con amor para usted"
-baseurl:     ""
-url:         "https://mixyll.saikiransripada.com"
+baseurl:     "/textercl/"
+url:         "https://robok3000.github.io/textercl/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
