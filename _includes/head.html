@@ -27,14 +27,14 @@
     <meta property="og:url" content="https://www.texter.cl/">
     <meta property="og:title" content="Texter - Repositorio de Ensayos y Crónicas Urbanas">
     <meta property="og:description" content="Encuentra las historias que necesitas leer para darle una dosis de alegría a tu vida.">
-    <meta property="og:image" content="{{ site.url }}/images/ee.jpg">
+    <meta property="og:image" content="images/ee.jpg">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://www.texter.cl/">
     <meta property="twitter:title" content="Texter - Repositorio de Ensayos y Crónicas Urbanas">
     <meta property="twitter:description" content="Encuentra las historias que necesitas leer para darle una dosis de alegría a tu vida.">
-    <meta property="twitter:image" content="{{ site.url }}/images/ee.jpg">
+    <meta property="twitter:image" content="images/ee.jpg">
 
 
     <!-- Fonts -->
@@ -57,18 +57,6 @@
     <meta property="og:image" content="{{ site.url }}/images/me.jpeg">
     {% endif %}
 
-    <!-- Twitter Card -->
-    <meta name="twitter:card" content="summary" />
-    {% if site.twitter_username %}
-        <meta name="twitter:site" content="@{{ site.twitter_username }}" />
-        <meta name="twitter:creator" content="@{{ site.twitter_username }}" />
-    {% endif %}
-    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-    <meta name="twitter:description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.description }}{% endif %}" />
-    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
-    {% if site.post_preview_image %}
-    <meta name="twitter:image" content="{{ site.url }}/images/me.jpeg" />
-    {% endif %}
 
     <!-- Icons -->
     <link rel="shortcut icon" href="{{ "/favicon.ico" | relative_url }}">
