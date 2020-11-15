@@ -40,3 +40,5 @@ En mi realidad cotidiana, si veo un matinal o un noticiario nacional de la telev
 En dichos momentos, en vez del protagonista de “Niebla” de Miguel Unamuno o Will Ferrell en la película “Stranger Than Fiction” -personajes autoconscientes que demandan una aclaración-, me acuerdo de algo más rústico, barato y de consumo popular: Condorito.
 
 Y eso es lo valioso de la escueta doctrina filosófica de Condorito, pues te recuerda, de la forma menos pretenciosa posible, que cuando la vida se plantea como un mal chiste que no tiene remate, hay que poner la pausa, mirar hacia nuestra cuarta pared y exigir una explicación.
+
+<center> FIN </center>
