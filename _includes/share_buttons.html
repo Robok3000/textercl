@@ -3,7 +3,7 @@
     {{ site.text.share_buttons.text | default: "Share this post!" }}
 
     {% if site.share_facebook %}
-      <a class="fa fa-facebook" href="https://facebook.com/sharer.php?u={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}" rel="nofollow" target="_blank" title="{{ site.text.share_buttons.facebook | default: "Share on Facebook" }}"></a>
+      <a class="fa fa-facebook" href="https://facebook.com/sharer.php?u={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}" rel="nofollow" target="_blank" title="{{ site.text.share_buttons.facebook | default: "Compártelo en Facebook" }}"></a>
     {% endif %}
 
     {% if site.share_twitter %}
