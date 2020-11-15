@@ -19,7 +19,7 @@ show_post_footers:    false
 show_social_icons:    true
 
 # Preview image for social media aka og:image and twitter:image
-post_preview_image: false
+post_preview_image: true
 
 # Disqus post comments
 disqus_shortname:
