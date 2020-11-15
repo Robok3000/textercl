@@ -27,19 +27,19 @@
     <meta property="og:url" content="https://www.texter.cl/">
     <meta property="og:title" content="Texter - Repositorio de Ensayos y Crónicas Urbanas">
     <meta property="og:description" content="Encuentra las historias que necesitas leer para darle una dosis de alegría a tu vida.">
-    <meta property="og:image" content="/images/ee.jpg">
+    <meta property="og:image" content="">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://www.texter.cl/">
     <meta property="twitter:title" content="Texter - Repositorio de Ensayos y Crónicas Urbanas">
     <meta property="twitter:description" content="Encuentra las historias que necesitas leer para darle una dosis de alegría a tu vida.">
-    <meta property="twitter:image" content="/images/ee.jpg">
+    <meta property="twitter:image" content="">
 
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
     {% if site.show_social_icons or site.show_sharing_icons %}
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/v4-shims.min.css    ">
@@ -54,7 +54,7 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:site_name" content="{{ site.title | xml_escape }}">
     {% if site.post_preview_image %}
-    <meta property="og:image" content="{{ site.url }}/images/me.jpeg">
+    <meta property="og:image" content="{{ site.url }}{{ page.featured_image }}">
     {% endif %}
 
 
