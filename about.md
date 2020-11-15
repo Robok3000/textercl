@@ -5,9 +5,13 @@ permalink: /about/
 tags: about
 ---
 
-Texter es una nueva forma de contar historias. Es un nuevo verbo que se conjuga en las calles y en cada rincón de nuestra América Latina. Es una nueva forma de decir que aquí estamos y estamos más vivos que nunca. Y la forma de demostrar que estamos vivos es a través del humor y de las historias divertidas. Aunque el mundo se caiga a pedazos y los tiempos sean una catástrofe tras otra, aquí encontrarás un refugio, un espacio donde el corazón y lamente se unan en una gran sonrisa. Eso es Texter. Sonrisas de cuerpo y alma.
+la imaginación está en crisis. Cada vez destinamos más tiempo al ocio que a cultivar las ideas y aumentar las fronteras de la imaginación. Más aún, cuando estamos encerrados debido a la pandemia. Texter es una pequeña dosis de imaginación. Historias que sucedieron y que demuestran que la vida tiene momentos que pueden tener una trama más entretenida que una película de mil millones de dólares de Netflix. Por eso quisimos recopilar pequeñas historias que nos relaten un hecho divertido, impactante, romántico o de cualquier tipo, que nos despierte ese lado dormido del cerebro y nos haga recordar nuestras propias experiencias y re-conectarnos con los sentimientos. Es hora de despertar y de conectarnos nuevamente.
 
-Y quienes constuyen Texter:
+Y quienes constituyen Texter:
 
-- Petric Bozanovic
-- Pedro Torrealba
+- [Arturo Opazo](https://www.primitivegrip.com/): Ilustrador, dibujante, diseñador y fabricante de sueños. 👨‍🎨
+- Petric Bozanovic aka Retry: Escritor, psicólogo y cómico oficialista. 👨‍💼
+- Pedro Torrealba aka Piter: Redactor Creativo, pensador y psiconauta del inconsciente. 👨‍🚀
+
+
+Texter... se está escribiendo.
