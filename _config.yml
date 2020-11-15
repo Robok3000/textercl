@@ -1,8 +1,8 @@
 # Site settings
-title:       Texter
+title:       Se está escribiendo...
 email:       texterizate@gmail.com
 author:      Petric Bozanovic & Pedro Torrealba
-description: "Se está escribiendo..."
+description: "Repositorio de textos con historias entretenidas para el alma"
 baseurl:     ""
 url:         "https://www.texter.cl/"
 date_format: "%b %-d, %Y"
