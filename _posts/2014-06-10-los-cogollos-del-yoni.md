@@ -5,6 +5,7 @@ date:       2014-06-10 12:31:19
 summary:    Una historia marihuanística de ida y vuelta.
 categories: Crónica de Objetos
 featured_image: images/posts/yoni.png
+author: Piter
 ---
 
 *¿Qué completo quiere?* escucho a lo lejos. Muy lejos. Tan lejana era esa voz que parecía venir de otra vida. Estaba sentado en un local de completos. Mis manos comenzaron a hormiguear y mi cabeza tenía una extraña interferencia. En la tele del local estaban dando las noticias del Mega, algo sobre Colo Colo. El olor a caldo de salchichas, a puré de palta, a chuckrut de la vega, todo ese conjunto de olores entraron a mi cuerpo cuando traté de calmarme y respirar profundo. Algo no andaba bien. Todos me miraron extrañados, algo dije, antes de caerme de la silla.
