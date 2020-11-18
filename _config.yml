@@ -41,8 +41,8 @@ share_linkedin: false
 
 text:
   pagination:
-    newer: 'un pasito para adelante'
-    older: 'un pasito para atrás'
+    newer: 'avanza'
+    older: 'retrocede'
   share_buttons:
     text:         'Compártelo en:'
     facebook:     'Compártelo en Facebook'
