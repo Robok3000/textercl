@@ -1,5 +1,5 @@
 # Site settings
-title:       Texter
+title:       txtr
 email:       texterizate@gmail.com
 author:      Petric Bozanovic & Pedro Torrealba
 description: "Repositorio de historias extraordinarias de gente común 🙂"
@@ -41,8 +41,8 @@ share_linkedin: false
 
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Older'
+    newer: 'un pasito para adelante'
+    older: 'un pasito para atrás'
   share_buttons:
     text:         'Compártelo en:'
     facebook:     'Compártelo en Facebook'

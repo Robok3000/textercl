@@ -3,8 +3,9 @@ layout:     post
 title:      Los fantasmas del Barrio Bellavista
 date:       2014-06-09 12:32:18
 summary:    Esta es mi historia y el barrio que me vio crecer.
-autor:      Petric Bozanovic.
+autor:      Retry
 categories: Crónica de lugar
+featured_image: images/posts/fantasmas.png
 ---
 
 

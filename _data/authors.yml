@@ -1,0 +1,18 @@
+daniel:
+  username: Piter
+  name: Pedro Torrealba
+  url_full: https://lalegal.news
+  url: lalegal.news
+  bio: "Amo y señor de la escritura digital. Actualmente estoy escribiendo en TioCripto.com - Verynoise.com - Chowmi.net - Lalegal.news"
+  picture: /assets/images/pedro.jpg
+  facebook: False
+  twitter: False
+nancy:
+  username: Retry
+  name: Petric Bozanovic
+  url_full: https://twitter.com/Linda_MSC
+  url:
+  bio: A veces escribo lo que se me viene a la cabeza, generalmente son cosas divertidas. Generalmente.
+  picture: /assets/images/linda.jpg
+  facebook: False
+  twitter: False

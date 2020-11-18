@@ -1,16 +1,17 @@
 ---
 layout:     post
 title:      Señora Jocelyn
-date:       2014-06-11 15:31:19
-summary:    Esta es una crónica de un personaje nefasto de mi vida.
+date:       2020-11-17 15:31:19
+summary:    Todos conocemos a esa persona que su alma es puro odio. Aquí les presento a una de esas personas.
 categories: Crónica de Personaje
+author: Piter
 ---
 
 **Seguridad Ciudadana.**
 La música se apagó de golpe. Pero eso no impidió que siguiéramos besándonos con la Romy. Eran las siete de la mañana y una nueva semana estaba empezando. Para los demás. Para mí aún no terminaba. O eso quería creer. Porque en la puerta, detrás de los prospectos de pacos, estaba ella: La Señora Jocelyn.
 
 Vivía en las Torres de Carlos Antúnez 1850 departamento 1011. Esos que se estaban rebalsando de caca. Así como todo Chile. En ese entonces, estaba en mi primera pega como psicólogo laboral en una empresa sueca que le vendía maquinaria pesada a la minería. Quedaba en Quilicura. Entraba a las 8 de la mañana. Una mierda. Eran las siete y nada me importaba menos que ser psicólogo laboral para una empresa sueca. A mi lado estaba la Romy. La había conocido hace dos días, cuando llegó con su amiga a quedarse a alojar al departamento. Eran alemanas y estaban recorriendo Chile. Fuimos a una fiesta el viernes y desde entonces no nos habíamos separado. Para mí, todo era felicidad, hasta que golpearon la puerta.
-Nuevamente, la Señora Jocelyn aparecía para cagarnos la fiesta. Y esta vez estaba decidida a que nos echaran del departamento. Quería acabar con nuestra existencia. Porque desde que llegamos, el 1011 fue una fiesta eterna. Desde ese día, hizo gala de sus artimañas, enviando a sus secuaces, los conserjes, a coartar nuestra libertad. Y cuando los conserjes andaban de buena y no querían hacerse ataos, la señora aparecía pegándole a nuestra puerta como si fuera del GOPE, o se ponía al frente a gritarnos. Quizás era su sueño frustrado, porque el alma de paco de esa vieja se olía desde el pasillo. Incluso, desde el hall de la entrada, o quizás eran las cañerías tapadas en mierda. Su aliento era una verdadera lacrimógena. EDIT queda muy guacho. Podría ser que ella en general sea una lacrimogena, como un concepto. *“Si el alma tuviese olor la suya sería como una lacrimógena”.*
+Nuevamente, la Señora Jocelyn aparecía para cagarnos la fiesta. Y esta vez estaba decidida a que nos echaran del departamento. Quería acabar con nuestra existencia. Porque desde que llegamos, el 1011 fue una fiesta eterna. Desde ese día, hizo gala de sus artimañas, enviando a sus secuaces, los conserjes, a coartar nuestra libertad. Y cuando los conserjes andaban de buena y no querían hacerse ataos, la señora aparecía pegándole a nuestra puerta como si fuera del GOPE, o se ponía al frente a gritarnos. Quizás era su sueño frustrado, porque el alma de paco de esa vieja se olía desde el pasillo. Incluso, desde el hall de la entrada, o quizás eran las cañerías tapadas en mierda. Si el alma tuviese olor la suya sería como una lacrimógena.
 
 Siempre estuvo ahí para tirarnos su infelicidad en la cara. Era su forma de eyacular. De sentir que tenía el poder. Creo que lo que más odiaba era que nosotros estábamos felices, a cualquier hora, todos los días. Estábamos celebrando, riendo, gritando y haciendo música. A ningún otro vecino le afectaba eso. Pero a ella sí. A ella le carcomía las entrañas las ganas de paquear, de montar un atentado y culparnos de todo. siempre con una cara inyectada en ira.
 
@@ -35,4 +36,4 @@ El mundo comienza a luchar.
 Y las personas comienzan a golpear cada vez más fuerte esa puerta donde se esconden todas las señoras Jocelyn del mundo.
 
 
-<center> FIN </center>
+<center> *** </center>

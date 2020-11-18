@@ -31,6 +31,24 @@ layout: default
   {{ content }}
 </article>
 
+{% for author in site.data.authors %}
+            {% if author[1].username == page.author %}
+            <div class="author-box">
+                <div class="author-info">
+                    <div class="author-details">
+                        <h5 class="author-title">Escrito por: <a href="{{ site.baseurl }}author/{{ page.author }}">{{ author[1].name }}</a></h5>
+                        {% if author[1].bio %}
+                        <p class="author-description">{{ author[1].bio }}</p>
+                        {% else %}
+                        <p class="author-description">Read <a href="{{ site.baseurl }}author/{{ page.author }}">more posts</a> by this
+                            author.</p>
+                        {% endif %}
+                    </div>
+                </div><!-- .author-info -->
+            </div><!-- .author-box -->
+            {% endif %}
+            {% endfor %}
+
 {% if site.show_sharing_icons %}
   {% include share_buttons.html %}
 {% endif %}
