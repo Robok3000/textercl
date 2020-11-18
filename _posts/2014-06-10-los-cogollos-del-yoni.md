@@ -23,6 +23,6 @@ De momento, me encuentro nuevamente con un caño del Yoni en la mano, terminando
 
 Quizás, estas palabras sean la forma de domar al demonio de mi amigo.
 
-<center> FIN </center>
+<center> *** </center>
 
 Ilustración de la portada: [Primitive Grip](https://www.primitivegrip.com/)

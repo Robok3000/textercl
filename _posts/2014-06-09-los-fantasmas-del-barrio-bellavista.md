@@ -5,7 +5,7 @@ date:       2014-06-09 12:32:18
 summary:    Esta es mi historia y el barrio que me vio crecer.
 autor:      Retry
 categories: Crónica de lugar
-featured_image: images/posts/fantasmas.png
+featured_image: images/posts/fantasmas.jpg
 ---
 
 
@@ -17,4 +17,6 @@ Con ellos todo era risa, descubrimientos y compañerismo. Estudiábamos en la mi
 
 Un día me tocó a mí irme. “Este barrio bohemio no es un buen barrio para criar a un niño” decían mis papás. Nunca más supe de mis amigos, nunca más subí solo el cerro, ni menos recorrí esos senderos estrechos y empinados. Ahora, para mí, el cerro era solo un gran recuerdo de esos cuatro fantasmas del barrio Bellavista.
 
-<center> FIN </center>
+<center> *** </center>
+
+Ilustración de la portada: [Primitive Grip](https://www.primitivegrip.com/)

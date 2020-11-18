@@ -43,4 +43,6 @@ En dichos momentos, en vez del protagonista de “Niebla” de Miguel Unamuno o 
 
 Y eso es lo valioso de la escueta doctrina filosófica de Condorito, pues te recuerda, de la forma menos pretenciosa posible, que cuando la vida se plantea como un mal chiste que no tiene remate, hay que poner la pausa, mirar hacia nuestra cuarta pared y exigir una explicación.
 
-<center> FIN </center>
+<center> *** </center>
+
+Ilustración de la portada: [Primitive Grip](https://www.primitivegrip.com/)
