@@ -1,7 +1,7 @@
 # Site settings
 title:       txtr
-email:       texterizate@gmail.com
-author:      Petric Bozanovic & Pedro Torrealba
+email:       somostexter@gmail.com
+author:      RETER
 description: "Repositorio de historias extraordinarias de gente común 🙂"
 baseurl:     ""
 url:         "https://www.texter.cl/"
@@ -63,7 +63,7 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    :title
-paginate:     4
+paginate:     5
 sass:
   style: compressed
 plugins:

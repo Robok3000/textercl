@@ -12,7 +12,7 @@ Texter es una pequeña dosis de imaginación. Historias que sucedieron y que dem
 
 Y quienes constituyen Texter:
 
-- [Arturo Opaso](https://www.primitivegrip.com/): Ilustrador, dibujante, diseñador y fabricante de sueños. 👨‍🎨
+- [Primitive Grip](https://www.primitivegrip.com/): Ilustrador, dibujante, diseñador y fabricante de sueños. 👨‍🎨
 - Retry: Escritor, psicólogo y cómico oficialista. 👨‍💼
 - Pedro Torrealba aka Piter: Redactor Creativo, pensador y psiconauta del inconsciente. 👨‍🚀
 
