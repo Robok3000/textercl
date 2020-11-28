@@ -1,10 +1,10 @@
-var CACHE_NAME = "saikiransripada-20201128094144";
+var CACHE_NAME = "saikiransripada-20201128094448";
 
 self.addEventListener("install", function(e) {
   e.waitUntil(
     caches.open(CACHE_NAME).then(function(cache) {
       return cache.addAll([
-        "/css/style.css?202011280941",
+        "/css/style.css?202011280944",
         "/"
       ]);
     })
