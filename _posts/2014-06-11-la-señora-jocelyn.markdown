@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      La señora Jocelyn
-date:       2020-11-17 15:31:19
+date:       2020-03-17 15:31:19
 summary:    Todos conocemos a esa persona que su alma es puro odio. Aquí les presento a una de esas personas.
 categories: Crónica de Personaje
 featured_image: images/posts/jocelyn.png

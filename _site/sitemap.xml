@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/la-doctrina-filosofica-de-condorito</loc>
-<lastmod>2020-01-26T19:22:00-03:00</lastmod>
+<loc>http://localhost:4000/la-se%C3%B1ora-jocelyn</loc>
+<lastmod>2020-03-17T12:31:19-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/el-invitado</loc>
@@ -29,8 +29,8 @@
 <lastmod>2020-11-10T09:31:19-03:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/la-se%C3%B1ora-jocelyn</loc>
-<lastmod>2020-11-17T12:31:19-03:00</lastmod>
+<loc>http://localhost:4000/la-doctrina-filosofica-de-condorito</loc>
+<lastmod>2020-11-11T15:22:00-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/unimoog</loc>
