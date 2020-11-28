@@ -26,11 +26,11 @@ tags: contact
     <form action="https://formspree.io/f/mgepzzag" method="POST" class="form-stacked">
       <label>
         Email
-        <input type="text" name="email" class="field-light" placeholder="{{ site.text.contact.email | default: "Tu correo" }}">
+        <input type="text" name="email" class="field-light" placeholder="{{ site.text.contact.email | default: "Tu@correo" }}">
       </label>
       <label>
-        Content
-        <textarea type="text" name="content" class="field-light" rows="5" placeholder="{{ site.text.contact.content | default: "¿Qué nos quieres contar?" }}" style="resize: vertical"></textarea>
+        ¿Qué nos quieres contar?
+        <textarea type="text" name="content" class="field-light" rows="5" placeholder="{{ site.text.contact.content | default: "Pega aquí tu historia o escríbenos lo que quieras" }}" style="resize: vertical"></textarea>
       </label>
 
       <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks/" />

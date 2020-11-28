@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Release
-date: 2020-11-25 10:10
+date: 2020-11-25 20:10
 summary: Carlitos fue el primero en tener ese preciado objeto. El día que nos mostró su colección quedamos alucinados. Era como tener en nuestras manos un espejismo. Un sueño de la televisión. “Si quieren tener uno yo les puedo enseñar”.
 categories: Crónica de evento
 author: Retry
