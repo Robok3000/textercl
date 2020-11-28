@@ -5,7 +5,7 @@ date:       2014-06-09 12:32:18
 summary:    Esta es mi historia y el barrio que me vio crecer.
 autor:      Retry
 categories: Crónica de lugar
-featured_image: images/posts/fantasmas.jpg
+featured_image: images/posts/fantasmas.png
 ---
 
 

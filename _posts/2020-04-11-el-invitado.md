@@ -4,6 +4,7 @@ title: El invitado
 date: 2020-04-11 12:22
 summary: En un intento desesperado por entender los hechos, creció pensando que el día de su  cumpleaños había sido motivo suficiente para que la persona que más quería se alejara...
 categories: Crónica de personaje.
+featured_image: images/posts/invitado.png
 ---
 
 Ahí estaba de nuevo. Una llamada entrante del número terminado en 804 iluminaba la  pantalla de su celular. En un gesto casi automático, aprieta la tecla de bloqueo esperando  que el buzón de voz, al otro lado de la línea, haga su trabajo. La culpa interiorizada en su  cuerpo fue desapareciendo después de varios meses consecutivos realizando la misma  acción, por lo que hoy ya no era parte de ella.  

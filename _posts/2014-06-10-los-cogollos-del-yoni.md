@@ -4,7 +4,7 @@ title:      Los cogollos del Yoni
 date:       2014-06-10 12:31:19
 summary:    Una historia marihuanística de ida y vuelta.
 categories: Crónica de Objetos
-featured_image: images/posts/yoni.png
+featured_image: images/posts/cogollos.png
 author: Piter
 ---
 
