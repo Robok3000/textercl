@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/la-deuda</loc>
-<lastmod>2014-06-08T07:21:29-04:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/los-fantasmas-del-barrio-bellavista</loc>
-<lastmod>2014-06-09T08:32:18-04:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/la-doctrina-filosofica-de-condorito</loc>
 <lastmod>2020-01-26T19:22:00-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/el-invitado</loc>
 <lastmod>2020-04-11T12:22:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/la-deuda</loc>
+<lastmod>2020-06-08T07:21:29-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/los-fantasmas-del-barrio-bellavista</loc>
+<lastmod>2020-06-09T08:32:18-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/release</loc>
