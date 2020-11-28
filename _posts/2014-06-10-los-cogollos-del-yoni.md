@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      Los cogollos del Yoni
-date:       2014-06-10 12:31:19
-summary:    Una historia marihuanística de ida y vuelta.
+date:       2020-11-10 12:31:19
+summary:    Despierto en el asiento de atrás del Cogollo Móvil. Un Charade verde que se mantenía andando de pura buena onda. Conchetumare… dije mirando para todos lados… ¿qué pasó con mi completo? Mis amigos estaban cagados de la risa. Había tenido mi primera pálida
 categories: Crónica de Objetos
 featured_image: images/posts/cogollos.png
 author: Piter

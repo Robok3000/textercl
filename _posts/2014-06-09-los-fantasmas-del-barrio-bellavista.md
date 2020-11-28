@@ -2,7 +2,7 @@
 layout:     post
 title:      Los fantasmas del Barrio Bellavista
 date:       2014-06-09 12:32:18
-summary:    Esta es mi historia y el barrio que me vio crecer.
+summary:    Si bien yo era un privilegiado en el barrio porque tenía un patio interno en mi casa, con un parrón medio seco pero que daba buena sombra y algunas uvas con pepas, un par helechos y una virgen en una esquina, mi verdadero patio era el cerro. 
 autor:      Retry
 categories: Crónica de lugar
 featured_image: images/posts/fantasmas.png

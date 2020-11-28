@@ -1,8 +1,8 @@
 ---
 layout: post
 title: La doctrina filosófica de Condorito
-date: 2019-01-26 19:22
-summary: Todo aquel que ha leído a Condorito se ha percatado que la mayoría de los chistes terminan con un ¡Plop! y la caída de espaldas de la persona que recibe el remate de la broma. Sin embargo, algunos chistes finalizan con Condorito mirando hacia el lector y exclamando «¡Exijo una explicación!»; frase que generalmente la dice cuando las cosas no salen bien o no hay un final redondo o gracioso para la historia.
+date: 2020-01-26 19:22
+summary: En Pelotillehue es normal ver cocodrilos en los tarros de basura, sonámbulos en los techos, cuadros con imágenes que se salen del marco, etcétera. Sin embargo, aún en ese mundo tan especial en donde estos detalles surrealistas y/o sobrenaturales son normales, también hay espacio para el sinsentido.
 categories: Ensayo
 author: Elias
 featured_image: images/posts/condorito.png
