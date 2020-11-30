@@ -29,6 +29,25 @@
     <!-- Open Graph -->
     <!-- From: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/_includes/head.html -->
 
+    <!-- Primary Meta Tags -->
+    <title>Texter - Repositorio de Ensayos y Crónicas Urbanas</title>
+    <meta name="title" content="Texter - Repositorio de Ensayos y Crónicas Urbanas">
+    <meta name="description" content="No leas mañana lo que puedes leer hoy. Somos un archivador de historias extraordinarias escritas por gente común.">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.texter.cl/">
+    <meta property="og:title" content="Texter - Repositorio de Ensayos y Crónicas Urbanas">
+    <meta property="og:description" content="ENo leas mañana lo que puedes leer hoy. Somos un archivador de historias extraordinarias escritas por gente común.">
+    <meta property="og:image" content="{{ site.url }}{{ page.featured_image }}">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://www.texter.cl/">
+    <meta property="twitter:title" content="Texter - Repositorio de Ensayos y Crónicas Urbanas">
+    <meta property="twitter:description" content="No leas mañana lo que puedes leer hoy. Somos un archivador de historias extraordinarias escritas por gente común.">
+    <meta property="twitter:image" content="{{ site.url }}{{ page.featured_image }}">
+
       <meta property="og:locale" content="{{ site.text.og_locale | default: "en_US" }}">
       <meta property="og:type" content="article">
       <meta property="og:title" content="{% if page.title %}{{ page.title | xml_escape }}{% else %}{{ site.title | xml_escape }}{% endif %}">
