@@ -28,15 +28,17 @@
     {% endif %}
 
 
-<meta property="og:locale" content="{{ site.text.og_locale | default: "en_US" }}">
-<meta property="og:type" content="article">
-<meta property="og:title" content="{% if page.title %}{{ page.title | xml_escape }}{% else %}{{ site.title | xml_escape }}{% endif %}">
-<meta property="og:description" content="{{ page.description | xml_escape }}">
-<meta property="og:url" content="{{ site.url }}{{ page.url }}">
-<meta property="og:site_name" content="{{ site.title | xml_escape }}">
-{% if site.post_preview_image %}
-<meta property="og:image" content="{{ site.url }}{{ page.featured_image }}">
-  {% endif %}
+    <meta property="og:locale" content="{{ site.text.og_locale | default: "en_US" }}">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="{% if posts.title %}{{ posts.title | xml_escape }}{% else %}{{ site.title | xml_escape }}{% endif %}">
+    <meta property="og:description" content="{{ posts.description | xml_escape }}">
+    <meta property="og:url" content="{{ site.url }}{{ posts.url }}">
+    <meta property="og:site_name" content="{{ site.title | xml_escape }}">
+    {% if site.post_featured_image %}
+      <meta property="og:image" content="{{ site.url }}{{ post.featured_image }}">
+    <% else %>
+    <meta property="og:image" content="https://www.texter.cl/images/cover.jpg">
+    {% endif %}
 
 
     <!-- Icons -->

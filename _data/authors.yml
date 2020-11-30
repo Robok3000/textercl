@@ -16,3 +16,9 @@ nancy:
   picture: /assets/images/linda.jpg
   facebook: False
   twitter: False
+Gustavo:
+  username: Gus
+  name: Gustavo
+  bio: Amante de las letras y del silencio. Escribo luego existo...
+  facebook: False
+  twitter: False
