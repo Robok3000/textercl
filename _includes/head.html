@@ -27,6 +27,15 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/v4-shims.min.css    ">
     {% endif %}
 
+      <!-- HTML Meta Tags -->
+    <title>txtr</title>
+    <meta name="description" content="No leas mañana lo que puedes leer hoy. Somos un archivador de historias extraordinarias escritas por gente común.">
+
+    <!-- Google / Search Engine Tags -->
+    <meta itemprop="name" content="txtr">
+    <meta itemprop="description" content="No leas mañana lo que puedes leer hoy. Somos un archivador de historias extraordinarias escritas por gente común.">
+    <meta itemprop="image" content="images/cover.jpg>
+
     <meta property="og:locale" content="{{ site.text.og_locale | default: "en_US" }}">
     <meta property="og:type" content="article">
     <meta property="og:title" content="{% if page.title %}{{ page.title | xml_escape }}{% else %}{{ site.title | xml_escape }}{% endif %}">
