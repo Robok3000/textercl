@@ -1,24 +1,25 @@
 daniel:
   username: Piter
   name: Pedro Torrealba
-  url_full: https://lalegal.news
   url: lalegal.news
   bio: "Amo y señor de la escritura digital. Actualmente estoy escribiendo en TioCripto.com - Verynoise.com - Chowmi.net - Lalegal.news"
-  picture: /assets/images/pedro.jpg
-  facebook: False
-  twitter: False
 nancy:
   username: Retry
   name: Retry
-  url_full: https://twitter.com/Linda_MSC
-  url:
-  bio: A veces escribo lo que se me viene a la cabeza, generalmente son cosas divertidas. Generalmente.
-  picture: /assets/images/linda.jpg
-  facebook: False
-  twitter: False
+  bio: Papel que encuentre lo lleno de escritura. Gerente asistente en lalegal.news
 Gustavo:
   username: Gus
   name: Gus
   bio: Amante de las letras y del silencio. Escribo luego existo...
-  facebook: False
-  twitter: False
+Elias Ibaceta:
+  username: Elias Ibaceta
+  name: Elias Ibaceta
+  bio: "El gusano recordará por siempre que fue gusano"
+Ju Alfaro:
+  username: Ju Alfaro
+  name: Ju Alfaro
+  bio: "No hay barrera, cerradura ni cerrojo que puedas imponer a la libertad de mi mente." - Virginia Wolf. (1882-1941). Escritora británica.
+Cami:
+  username: Cami
+  name: Cami
+  bio: "La vida se contrae y expande en proporción directa a nuestro coraje" Anaïs Nin (1903-1977). Escritora estadounidense

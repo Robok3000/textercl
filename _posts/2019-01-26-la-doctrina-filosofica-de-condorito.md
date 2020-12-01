@@ -4,7 +4,7 @@ title: La doctrina filosófica de Condorito
 date: 2020-11-11 15:22
 summary: En Pelotillehue es normal ver cocodrilos en los tarros de basura, sonámbulos en los techos, cuadros con imágenes que se salen del marco, etcétera. Sin embargo, aún en ese mundo tan especial en donde estos detalles surrealistas y/o sobrenaturales son normales, también hay espacio para el sinsentido.
 categories: Ensayo
-author: Elias
+author: Elias Ibaceta
 featured_image: images/posts/condorito.png
 ---
 
