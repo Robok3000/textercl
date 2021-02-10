@@ -4,7 +4,7 @@ email:       somostexter@gmail.com
 author:      Esto es Texter
 description: "No leas mañana lo que puedes leer hoy. Somos un archivador de historias extraordinarias escritas por gente común."
 baseurl:     ""
-url:         "https://www.texter.cl/"
+url:         ""
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
